@@ -1,11 +1,11 @@
 # Codebook for Project Tidy Data
 1. subjectid: ID ranging from 1-30
-2. activity: -WALKING
-            -WALKING UPSTAIRS
-            -WALKING DOWNSTAIRS
-            -SITTING
-            -STANDING
-            -LAYING
+2. activity: *WALKING
+            *WALKING UPSTAIRS
+            *WALKING DOWNSTAIRS
+            *SITTING
+            *STANDING
+            *LAYING
 3. tBodyAccmeanX
 4. tBodyAccmeanY
 5. tBodyAccmeanZ
